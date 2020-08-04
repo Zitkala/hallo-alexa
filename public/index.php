@@ -48,8 +48,10 @@ require_once '../Helpers/functions.php';
                 <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://www.twitch.tv/hallo_alexa_" target="_blank" title="hallo_alexa_ auf Twitch"><i class="fa-fw fab fa-twitch fa-2x"></i></a>
                 <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://www.instagram.com/hallo_alexa_/" target="_blank" title="hallo_alexa_ auf Instagram"><i class="fa-fw fab fa-instagram fa-2x"></i></a>
                 <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://twitter.com/alexa_hallo" target="_blank" title="hallo_alexa_ auf Twitter"><i class="fa-fw fab fa-twitter fa-2x"></i></a>
+                <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://www.facebook.com/hallo_alexa_-101553671528532/" target="_blank" title="hallo_alexa_ auf Facebook"><i class="fa-fw fab fa-facebook fa-2x"></i></a>
+                <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://discord.gg/fCUT5bF" target="_blank" title="hallo_alexa_ auf Discord"><i class="fa-fw fab fa-discord fa-2x"></i></a>
+                <a class="link fill-current text-gray-600 hover:text-blue-700" href="ts3server://5.200.25.16?port=4208" target="_blank" title="hallo_alexa_ auf Teamspeak"><i class="fa-fw fab fa-teamspeak fa-2x"></i></a>
                 <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://www.youtube.com/channel/UCetTw1t8fMGzWeYo1_X3vqQ" target="_blank" title="hallo_alexa_ auf YouTube"><i class="fa-fw fab fa-youtube fa-2x"></i></a>
-
             </div>
         </div>
     </div>
