@@ -1,10 +1,15 @@
 {
-  "name": "laravel-mix-standalone-w-tailwind",
+  "name": "hallo-alexa",
   "version": "1.0.0",
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "npm run development",
+    "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "npm run development -- --watch",
+    "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "prod": "npm run production",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -12,8 +17,9 @@
   },
   "author": "Norman Huth <norman@huth.it>",
   "license": "MIT",
-  "homepage": "https://github.com/NormanHuth/laravel-mix-standalone-w-tailwind",
+  "homepage": "https://github.com/Zitkala/hallo-alexa",
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0",
     "tailwindcss": "^1.6.2"
   },
   "devDependencies": {
