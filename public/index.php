@@ -12,7 +12,7 @@
     <meta name="description" content="Hi! Mein Name ist Alexandra und ich bin seit einigen Wochen auf Twitch. Meine Community ist aufgeschlossen, freundlich und familiär!">
 </head>
 <body class="font-sans antialiased text-gray-900 leading-normal tracking-wider">
-<div class="area absolute z-0 sm:invisible md:invisible lg:visible xl:visible">
+<div class="area absolute z-0">
     <ul class="circles z-0">
         <li></li>
         <li></li>
