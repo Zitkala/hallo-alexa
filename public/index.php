@@ -21,8 +21,8 @@ require_once '../Helpers/functions.php';
     <meta name="theme-color" content="#ffffff">
 </head>
 <body class="font-sans antialiased text-gray-900 leading-normal tracking-wider">
-<div class="area absolute z-0">
-    <ul class="circles z-0">
+<div class="area">
+    <ul class="circles">
         <li></li>
         <li></li>
         <li></li>
