@@ -58,6 +58,7 @@ require_once '../Helpers/functions.php';
     <div class="w-full lg:w-2/5 z-40">
         <img src="<?= asset('images/hallo_alexa.jpg') ?>" class="rounded-none lg:rounded-lg shadow-2xl hidden lg:block" alt="hallo_alexa">
     </div>
+    <script src="<?= asset('js/app.js') ?>"></script>
 </div>
 </body>
 </html>
