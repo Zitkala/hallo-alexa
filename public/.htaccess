@@ -38,6 +38,7 @@
 	ExpiresByType audio/ogg								"access plus 1 year"
 	ExpiresByType image/bmp								"access plus 1 year"
 	ExpiresByType image/gif								"access plus 1 year"
+	ExpiresByType image/jpg							    "access plus 1 year"
 	ExpiresByType image/jpeg							"access plus 1 year"
 	ExpiresByType image/png								"access plus 1 year"
 	ExpiresByType image/svg+xml							"access plus 1 year"
@@ -124,7 +125,7 @@
 #Alternative caching using Apache's "mod_headers", if it's installed.
 #Caching of common files - ENABLED
 <IfModule mod_headers.c>
-	<FilesMatch "\.(ico|pdf|flv|swf|js|css|gif|png|jpg|jpeg|txt)$">
+	<FilesMatch "\.(ico|pdf|flv|swf|js|css|gif|png|jpg|jpeg|txt|woff2)$">
 		Header set Cache-Control "max-age=31536000, public"
 	</FilesMatch>
 </IfModule>
