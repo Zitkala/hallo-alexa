@@ -1,7 +1,8 @@
 A small page for the german twitch streamer-girl Alexa. This repository was created with laravel-mix (without laravel) and tailwind by using the git template [laravel-mix-standalone-w-tailwind](https://github.com/NormanHuth/laravel-mix-standalone-w-tailwind).
 
 Site:  
-https://twitch-hallo-alexa.de
+https://alexa.huth.it  
+https://twitch-hallo-alexa.de (Currently offline)
 
 Pure Css Animated Background Mohammad Abdul Mohaiman:  
 https://codepen.io/mohaiman/pen/MQqMyo
