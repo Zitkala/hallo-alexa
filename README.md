@@ -2,7 +2,6 @@ A small page for the german twitch streamer-girl Alexa. This repository was crea
 
 Site:  
 https://alexa.huth.it  
-https://twitch-hallo-alexa.de (Currently offline)
 
 Pure Css Animated Background Mohammad Abdul Mohaiman:  
 https://codepen.io/mohaiman/pen/MQqMyo
