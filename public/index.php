@@ -43,7 +43,7 @@ require_once '../Helpers/functions.php';
             </div>
             <h1 class="text-3xl font-bold pt-8 lg:pt-0">hallo_alexa_</h1>
             <div class="mx-auto lg:mx-0 w-4/5 pt-3 border-b-2 border-teal-500 opacity-25"></div>
-            <p class="pt-4 text-sm">Hi! Mein Name ist Alexandra und ich bin seit einigen Wochen auf Twitch. Meine Community ist aufgeschlossen, freundlich und familiär! Wir treffen uns täglich in meinen LiveStream um gemeinsam den Abend mit Games oder Scribble zu verbringen. Bist du offen und lustig, dann bist du herzlich eingeladen</p>
+            <p class="pt-4 text-sm">Hi! Mein Name ist Alexandra, komme aus Frankfurt am Main und streame seit dem 12.April.2020 auf Twitch. Meine Community ist aufgeschlossen, freundlich und familiär! Wir treffen uns täglich in meinen LiveStream um gemeinsam den Abend mit Games oder Scribble zu verbringen. Bist du offen und lustig, dann bist du herzlich eingeladen</p>
             <div class="mt-6 pb-16 lg:pb-0 w-4/5 lg:w-full mx-auto flex flex-wrap items-center justify-between">
                 <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://www.twitch.tv/hallo_alexa_" target="_blank" title="hallo_alexa_ auf Twitch"><i class="fa-fw fab fa-twitch fa-2x"></i></a>
                 <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://www.instagram.com/hallo_alexa_/" target="_blank" title="hallo_alexa_ auf Instagram"><i class="fa-fw fab fa-instagram fa-2x"></i></a>
