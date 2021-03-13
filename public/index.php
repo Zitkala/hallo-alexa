@@ -18,7 +18,7 @@ require_once '../Helpers/functions.php';
     <link rel="shortcut icon" href="/favicon/favicon.ico">
     <meta name="msapplication-TileColor" content="#0071bc">
     <meta name="msapplication-config" content="/favicon/browserconfig.xml">
-    <meta name="theme-color" content="#3e1a57">
+    <meta name="theme-color" content="#0071bc">
 </head>
 <body class="font-sans antialiased text-gray-900 leading-normal tracking-wider">
 <div class="area">
