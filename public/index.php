@@ -51,6 +51,7 @@ require_once '../Helpers/functions.php';
                 <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://www.facebook.com/hallo_alexa_-101553671528532/" target="_blank" title="hallo_alexa_ auf Facebook"><i class="fa-fw fab fa-facebook fa-2x"></i></a>
                 <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://discord.gg/fCUT5bF" target="_blank" title="hallo_alexa_ auf Discord"><i class="fa-fw fab fa-discord fa-2x"></i></a>
                 <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://www.youtube.com/channel/UCetTw1t8fMGzWeYo1_X3vqQ" target="_blank" title="hallo_alexa_ auf YouTube"><i class="fa-fw fab fa-youtube fa-2x"></i></a>
+                <a class="link fill-current text-gray-600 hover:text-blue-700" href="https://1lnk.de/podcast" target="_blank" title="Nüchtern² Podcast"><i class="fa-fw fab fa-spotify fa-2x"></i></a>
             </div>
         </div>
     </div>
